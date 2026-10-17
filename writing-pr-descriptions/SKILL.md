@@ -1,6 +1,6 @@
 ---
 name: writing-pr-descriptions
-description: Use when writing or rewriting a pull request description — opening a PR with gh pr create, filling in a PR body, editing an existing description, or when a description reads too long. Enforces a short overview-list format with a collapsed AI-decisions block. Keywords: PR description, pull request body, gh pr create, gh pr edit, PR summary, describe this PR, open a PR.
+description: "Use when writing or rewriting a pull request description — opening a PR with gh pr create, filling in a PR body, editing an existing description, or when a description reads too long. Enforces a short overview-list format with a collapsed AI-decisions block. Keywords: PR description, pull request body, gh pr create, gh pr edit, PR summary, describe this PR, open a PR."
 ---
 
 # Writing a PR description
